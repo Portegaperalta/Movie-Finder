@@ -9,3 +9,37 @@ body {
   font-family: "Lato", serif;
   background-color: var(--clr-black)
 }
+
+header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  padding-top: 20px;
+}
+
+.header-logo {
+  padding-right: 100px;
+}
+
+.header-search form input[type="text"] {
+  padding: 5px 250px;
+  text-align: left;
+}
+
+.featured-today {
+  padding-top: 100px;
+}
+
+.featured-today-title {
+  color: var(--clr-yellow);
+  font-size: 2rem;
+}
+
+.premieres {
+  padding-top: 100px;
+}
+
+.premieres-title {
+  color: var(--clr-yellow);
+  font-size: 2rem;
+}
