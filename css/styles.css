@@ -7,4 +7,5 @@
 
 body {
   font-family: "Lato", serif;
+  background-color: var(--clr-black)
 }
