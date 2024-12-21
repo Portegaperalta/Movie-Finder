@@ -1,0 +1,10 @@
+:root {
+  --clr-black: #000000;
+  --clr-yellow: #fbd337;
+  --clr-white: #FFFF;
+  --clr-gray: #b6b6b6;
+}
+
+body {
+  font-family: "Lato", serif;
+}
